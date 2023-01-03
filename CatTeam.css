@@ -24,7 +24,7 @@ body{
 
 .banner{
     color: rgb(186, 189, 188); /*Dark Reader Color*/
-    font-family: 'Gill Sans Light', 'Gill Sans MT', 'Gill Sans', 'Trebuchet MS', 'Calibri', "sans-serif";
+    font-family: 'Trebuchet MS', 'Calibri', "sans-serif";
 }
 
 .container {
@@ -32,6 +32,11 @@ body{
   padding-left: 15px;
   margin-right: auto;
   margin-left: auto;
+}
+
+.demo{
+    border-radius: 8px;
+
 }
 
 /* GRID LAYOUT BEGIN */
